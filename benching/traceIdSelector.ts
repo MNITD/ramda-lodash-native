@@ -124,7 +124,7 @@ bench({
 });
 
 bench({
-  name: "native_filterGuideRoute",
+  name: "native_traceIdSelector",
   runs: 100,
   func(b): void {
     b.start();
